@@ -1,4 +1,4 @@
-## Crown Clothing
+## Clothing Firebase App
 
 This project is built using the create-react-app. The core technologies used on this project are as follows:
 
