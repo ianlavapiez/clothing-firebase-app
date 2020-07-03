@@ -7,6 +7,8 @@ This project is built using the create-react-app. The core technologies used on 
 ### Redux
 ### Firebase
 
+### `npm start`
+
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
